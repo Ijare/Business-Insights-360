@@ -1,1 +1,2 @@
 # Business-Insights-360
+###### This project provides a comprehensive 360-degree analysis of Atliq Hardware Company, covering key business functions like Sales, Finance, Marketing, Supply Chain, and Executive Performance. By leveraging data-driven insights, it helps in identifying trends, optimizing operations, and supporting strategic decision-making. The interactive dashboards enable stakeholders to make informed business decisions efficiently.
