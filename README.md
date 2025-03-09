@@ -28,4 +28,13 @@ This project provides a **360-degree analysis** of **Atliq Hardware Company**, c
   - **Forecast Accuracy & Error Trends** – Monitors deviations in supply chain predictions.  
 - **Executive View**  
   - **Market Share Analysis** – Compares Atliq’s market share against competitors.  
-  - **Top Customers & Revenue Breakdown** – Highlights major revenue-generating customers and products.  
+  - **Top Customers & Revenue Breakdown** – Highlights major revenue-generating customers and products.
+
+### 🛠 Skills Learned  
+- Power Query ETL
+- Data Modeling (Star schema, Snowflake schema)
+- DAX Measures
+- Dynamic Titles  
+- Dashboard Design Principles
+- DAX Studio (File Size Optimization),
+- Stakeholder Requirement Solution
